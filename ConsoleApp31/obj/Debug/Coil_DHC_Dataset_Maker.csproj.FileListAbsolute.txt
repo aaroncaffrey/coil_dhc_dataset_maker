@@ -1,0 +1,7 @@
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Debug\Coil_DHC_Dataset_Maker.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Debug\Coil_DHC_Dataset_Maker.csprojResolveAssemblyReference.cache

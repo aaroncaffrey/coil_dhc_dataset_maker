@@ -1,0 +1,6 @@
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\Release\ConsoleApp31.exe.config
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\Release\ConsoleApp31.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\Release\ConsoleApp31.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Release\Dimorphics_Host_Coil_Dataset.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Release\ConsoleApp31.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Release\ConsoleApp31.pdb

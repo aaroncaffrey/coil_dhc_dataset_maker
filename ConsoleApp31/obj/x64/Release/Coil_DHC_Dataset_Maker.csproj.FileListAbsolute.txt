@@ -1,0 +1,14 @@
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\x64\Release\Coil_DHC_Dataset_Maker.exe.config
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\x64\Release\Coil_DHC_Dataset_Maker.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\x64\Release\Coil_DHC_Dataset_Maker.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\x64\Release\Coil_DHC_Dataset_Maker.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\x64\Release\Coil_DHC_Dataset_Maker.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\x64\Release\Coil_DHC_Dataset_Maker.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\x64\Release\Coil_DHC_Dataset_Maker.csprojAssemblyReference.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Release\Coil_DHC_Dataset_Maker.exe.config
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Release\Coil_DHC_Dataset_Maker.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Release\Coil_DHC_Dataset_Maker.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Release\Coil_DHC_Dataset_Maker.csprojAssemblyReference.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Release\Coil_DHC_Dataset_Maker.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Release\Coil_DHC_Dataset_Maker.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Release\Coil_DHC_Dataset_Maker.pdb

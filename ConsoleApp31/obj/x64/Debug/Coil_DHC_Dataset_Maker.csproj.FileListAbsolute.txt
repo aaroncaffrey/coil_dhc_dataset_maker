@@ -1,0 +1,28 @@
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\x64\Debug\Coil_DHC_Dataset_Maker.exe.config
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\x64\Debug\Coil_DHC_Dataset_Maker.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\x64\Debug\Coil_DHC_Dataset_Maker.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.csprojAssemblyReference.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\Coil_DHC_Dataset_Maker.exe.config
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\Coil_DHC_Dataset_Maker.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\Coil_DHC_Dataset_Maker.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.pdb
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\protein_feature_extraction.exe.config
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\protein_feature_extraction.exe
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\protein_feature_extraction.pdb
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\DynamicInterop.dll
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\RDotNet.dll
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\RDotNet.NativeLibrary.dll
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\DynamicInterop.xml
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\RDotNet.xml
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\RDotNet.NativeLibrary.xml
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.csproj.CopyComplete
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\protein_feature_extraction.exe
+C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\protein_feature_extraction.pdb
