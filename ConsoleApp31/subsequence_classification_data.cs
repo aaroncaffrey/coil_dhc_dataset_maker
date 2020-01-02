@@ -2945,6 +2945,26 @@ namespace Coil_DHC_Dataset_Maker
                 dna_binding_prediction_data = enable;
                 r_peptides = enable;
             }
+
+            public override string ToString()
+            {
+                var data = new List<(string key, string value)>()
+                { 
+                      ( nameof(pse_aac_sequence_classification_data         ),  pse_aac_sequence_classification_data           .ToString()     ) ,
+                      ( nameof(sable_classification_data                    ),  sable_classification_data                      .ToString()     ) ,
+                      ( nameof(mpsa_classification_data_subsequence         ),  mpsa_classification_data_subsequence           .ToString()     ) ,
+                      ( nameof(blast_pssm_subsequence_classification_data   ),  blast_pssm_subsequence_classification_data     .ToString()     ) ,
+                      ( nameof(aa_index_classification_data                 ),  aa_index_classification_data                   .ToString()     ) ,
+                      ( nameof(sequence_geometry_classification_data        ),  sequence_geometry_classification_data          .ToString()     ) ,
+                      ( nameof(intrinsically_unordered_data                 ),  intrinsically_unordered_data                   .ToString()     ) ,
+                      ( nameof(dna_binding_prediction_data                  ),  dna_binding_prediction_data                    .ToString()     ) ,
+                      ( nameof(r_peptides                                   ),  r_peptides                                     .ToString()     ) 
+                };
+
+                var ret = string.Join("\r\n", data.Select(a => a.key + " = " + a.value).ToList());
+
+                return ret;
+            }
         }
 
         public class feature_types_3d
@@ -2972,6 +2992,24 @@ namespace Coil_DHC_Dataset_Maker
                 tortuosity_classification_data = enable;
                 intramolecular_classification_data = enable;
                 aa_aa_distances = enable;
+            }
+
+            public override string ToString()
+            {
+                var data = new List<(string key, string value)>()
+                {
+                    ( nameof(pse_ssc_dssp_classification_data         ),  pse_ssc_dssp_classification_data           .ToString()     ) ,
+                    ( nameof(foldx_classification_data         ),  foldx_classification_data           .ToString()     ) ,
+                    ( nameof(ring_classification_data         ),  ring_classification_data           .ToString()     ) ,
+                    ( nameof(sasa_classification_data         ),  sasa_classification_data           .ToString()     ) ,
+                    ( nameof(tortuosity_classification_data         ),  tortuosity_classification_data           .ToString()     ) ,
+                    ( nameof(intramolecular_classification_data         ),  intramolecular_classification_data           .ToString()     ) ,
+                    ( nameof(aa_aa_distances         ),  aa_aa_distances           .ToString()     ) ,
+                };
+
+                var ret = string.Join("\r\n", data.Select(a => a.key + " = " + a.value).ToList());
+
+                return ret;
             }
         }
 
@@ -4166,6 +4204,23 @@ namespace Coil_DHC_Dataset_Maker
                     (!double.IsNaN(feature_value) && !double.IsInfinity(feature_value)));
 
                 return ok;
+            }
+
+            public override string ToString()
+            {
+                var data = new List<(string key, string value)>()
+                {
+                    (nameof(alphabet), alphabet),
+                    (nameof(dimension), dimension.ToString()),
+                    (nameof(category), category),
+                    (nameof(source), source),
+                    (nameof(group), group),
+                    (nameof(member), member),
+                    (nameof(perspective), perspective),
+                    (nameof(feature_value), feature_value.ToString())
+                };
+
+                return string.Join(", ", data);
             }
         }
 

@@ -1428,7 +1428,9 @@ namespace Coil_DHC_Dataset_Maker
                 aa_index_classification_data = true, //7. before: ,128,161 features, updated: less
                 blast_pssm_subsequence_classification_data = true, //8. 2,126,881 features
 
-                r_peptides = true //9. R.NET ERROR - Not working - what happened??
+                r_peptides = true 
+                
+                
             };
 
 
@@ -1719,7 +1721,7 @@ namespace Coil_DHC_Dataset_Maker
 
             //return data_list;
 
-            var output_folder = @"C:\betastrands_dataset\svm_features\";
+            var output_folder = @"F:\dataset\"; //@"C:\betastrands_dataset\svm_features\";
 
             if (encode_features)
             {

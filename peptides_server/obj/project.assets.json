@@ -1,0 +1,345 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "DynamicInterop/0.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.2/DynamicInterop.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.2/DynamicInterop.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "R.NET/1.7.0": {
+        "type": "package",
+        "dependencies": {
+          "DynamicInterop": "[0.8.1]"
+        },
+        "frameworkAssemblies": [
+          "System.Numerics"
+        ],
+        "compile": {
+          "lib/net40/RDotNet.NativeLibrary.dll": {},
+          "lib/net40/RDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/RDotNet.NativeLibrary.dll": {},
+          "lib/net40/RDotNet.dll": {}
+        }
+      },
+      "Coil_DHC_Dataset_Maker/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "DynamicInterop": "0.8.1",
+          "Newtonsoft.Json": "12.0.2",
+          "R.NET": "1.7.0"
+        },
+        "compile": {
+          "bin/placeholder/Coil_DHC_Dataset_Maker.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Coil_DHC_Dataset_Maker.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "DynamicInterop/0.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.2/DynamicInterop.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.2/DynamicInterop.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "R.NET/1.7.0": {
+        "type": "package",
+        "dependencies": {
+          "DynamicInterop": "[0.8.1]"
+        },
+        "frameworkAssemblies": [
+          "System.Numerics"
+        ],
+        "compile": {
+          "lib/net40/RDotNet.NativeLibrary.dll": {},
+          "lib/net40/RDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/RDotNet.NativeLibrary.dll": {},
+          "lib/net40/RDotNet.dll": {}
+        }
+      },
+      "Coil_DHC_Dataset_Maker/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "DynamicInterop": "0.8.1",
+          "Newtonsoft.Json": "12.0.2",
+          "R.NET": "1.7.0"
+        },
+        "compile": {
+          "bin/placeholder/Coil_DHC_Dataset_Maker.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Coil_DHC_Dataset_Maker.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "DynamicInterop/0.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.2/DynamicInterop.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.2/DynamicInterop.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "R.NET/1.7.0": {
+        "type": "package",
+        "dependencies": {
+          "DynamicInterop": "[0.8.1]"
+        },
+        "frameworkAssemblies": [
+          "System.Numerics"
+        ],
+        "compile": {
+          "lib/net40/RDotNet.NativeLibrary.dll": {},
+          "lib/net40/RDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/RDotNet.NativeLibrary.dll": {},
+          "lib/net40/RDotNet.dll": {}
+        }
+      },
+      "Coil_DHC_Dataset_Maker/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "DynamicInterop": "0.8.1",
+          "Newtonsoft.Json": "12.0.2",
+          "R.NET": "1.7.0"
+        },
+        "compile": {
+          "bin/placeholder/Coil_DHC_Dataset_Maker.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Coil_DHC_Dataset_Maker.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "DynamicInterop/0.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.2/DynamicInterop.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.2/DynamicInterop.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "R.NET/1.7.0": {
+        "type": "package",
+        "dependencies": {
+          "DynamicInterop": "[0.8.1]"
+        },
+        "frameworkAssemblies": [
+          "System.Numerics"
+        ],
+        "compile": {
+          "lib/net40/RDotNet.NativeLibrary.dll": {},
+          "lib/net40/RDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/RDotNet.NativeLibrary.dll": {},
+          "lib/net40/RDotNet.dll": {}
+        }
+      },
+      "Coil_DHC_Dataset_Maker/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "DynamicInterop": "0.8.1",
+          "Newtonsoft.Json": "12.0.2",
+          "R.NET": "1.7.0"
+        },
+        "compile": {
+          "bin/placeholder/Coil_DHC_Dataset_Maker.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Coil_DHC_Dataset_Maker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DynamicInterop/0.8.1": {
+      "sha512": "ijI9TsU13X/glY9fj/LAJm0/WO59OQB+mrW+tBKh5F7nyYc053ezLZ71/neNr17/p77/vf/NEjTIYI+atmLr4Q==",
+      "type": "package",
+      "path": "dynamicinterop/0.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dynamicinterop.0.8.1.nupkg.sha512",
+        "dynamicinterop.nuspec",
+        "lib/netstandard1.2/DynamicInterop.XML",
+        "lib/netstandard1.2/DynamicInterop.dll"
+      ]
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "sha512": "rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "R.NET/1.7.0": {
+      "sha512": "f39oh96jPjci+Dd0f9Oj8ST72xW4tQPfKMoe2MnRY81WzzRqSwoxSLgZKlX3dhubFjiCCrbf37V7MICgNfvlbw==",
+      "type": "package",
+      "path": "r.net/1.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/RDotNet.NativeLibrary.XML",
+        "lib/net40/RDotNet.NativeLibrary.dll",
+        "lib/net40/RDotNet.XML",
+        "lib/net40/RDotNet.dll",
+        "r.net.1.7.0.nupkg.sha512",
+        "r.net.nuspec"
+      ]
+    },
+    "Coil_DHC_Dataset_Maker/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApp31/Coil_DHC_Dataset_Maker.csproj",
+      "msbuildProject": "../ConsoleApp31/Coil_DHC_Dataset_Maker.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Coil_DHC_Dataset_Maker >= 1.0.0",
+      "Newtonsoft.Json >= 12.0.2",
+      "R.NET >= 1.7.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aaron\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aaron\\Documents\\Projects\\Coil_DHC_Dataset_Maker\\peptides_server\\peptides_server.csproj",
+      "projectName": "peptides_server",
+      "projectPath": "C:\\Users\\aaron\\Documents\\Projects\\Coil_DHC_Dataset_Maker\\peptides_server\\peptides_server.csproj",
+      "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aaron\\Documents\\Projects\\Coil_DHC_Dataset_Maker\\peptides_server\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "C:\\Users\\aaron\\Documents\\Projects\\Coil_DHC_Dataset_Maker\\ConsoleApp31\\Coil_DHC_Dataset_Maker.csproj": {
+              "projectPath": "C:\\Users\\aaron\\Documents\\Projects\\Coil_DHC_Dataset_Maker\\ConsoleApp31\\Coil_DHC_Dataset_Maker.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.2, )"
+          },
+          "R.NET": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

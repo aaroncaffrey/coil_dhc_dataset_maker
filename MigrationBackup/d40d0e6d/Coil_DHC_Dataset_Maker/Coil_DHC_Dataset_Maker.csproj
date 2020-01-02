@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DAD3B393-7E53-4ECB-8199-F4925E465E6B}</ProjectGuid>
+    <ProjectGuid>{3B798B7B-99D2-403B-8383-53122FEFC4A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>peptides_server</RootNamespace>
-    <AssemblyName>peptides_server</AssemblyName>
+    <RootNamespace>Coil_DHC_Dataset_Maker</RootNamespace>
+    <AssemblyName>protein_feature_extraction</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
@@ -20,6 +19,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <DebugType>full</DebugType>
     <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>latest</LangVersion>
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <Prefer32Bit>true</Prefer32Bit>
@@ -30,14 +30,25 @@
     <Optimize>true</Optimize>
     <DebugType>pdbonly</DebugType>
     <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>latest</LangVersion>
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>peptides_server.Program</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="DynamicInterop, Version=0.8.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DynamicInterop.0.8.1\lib\netstandard1.2\DynamicInterop.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RDotNet, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\R.NET.1.7.0\lib\net40\RDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="RDotNet.NativeLibrary, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\R.NET.1.7.0\lib\net40\RDotNet.NativeLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Numerics" />
@@ -49,26 +60,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="aaindex.cs" />
+    <Compile Include="Atom.cs" />
+    <Compile Include="blast_pssm_options.cs" />
+    <Compile Include="coil_data_set_maker.cs" />
+    <Compile Include="descriptive_stats.cs" />
+    <Compile Include="dhc_dataset_maker.cs" />
+    <Compile Include="Dssp.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="feature_calcs.cs" />
+    <Compile Include="foldx_caller.cs" />
+    <Compile Include="iupred.cs" />
+    <Compile Include="mpsa_reader.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="r_peptides.cs" />
+    <Compile Include="pse_aac_options.cs" />
+    <Compile Include="pssm.cs" />
+    <Compile Include="ring.cs" />
+    <Compile Include="RSA.cs" />
+    <Compile Include="sable.cs" />
+    <Compile Include="Sequence.cs" />
+    <Compile Include="ss_types.cs" />
+    <Compile Include="StrideFile.cs" />
+    <Compile Include="subsequence_classification_data.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp31\Coil_DHC_Dataset_Maker.csproj">
-      <Project>{3b798b7b-99d2-403b-8383-53122fefc4a7}</Project>
-      <Name>Coil_DHC_Dataset_Maker</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json">
-      <Version>12.0.2</Version>
-    </PackageReference>
-    <PackageReference Include="R.NET">
-      <Version>1.7.0</Version>
-    </PackageReference>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

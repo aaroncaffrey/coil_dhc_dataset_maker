@@ -58,9 +58,10 @@ namespace Coil_DHC_Dataset_Maker
                 need_init = false;
                 var r_init_cmds = $@"
             #install.packages(""devtools"", repos=""http://cran.us.r-project.org"")
+            #install.packages(""devtools"")
             #library(devtools)
             #install_github(""dosorio/Peptides"")
-            sink(""NUL"")
+            sink(""NULL"")
             library(Peptides)
             if (!exists(""AAdata"")) data(AAdata)
             ";

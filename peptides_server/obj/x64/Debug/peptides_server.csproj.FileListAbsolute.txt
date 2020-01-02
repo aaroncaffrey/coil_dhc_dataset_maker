@@ -17,3 +17,17 @@ C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\peptides_server\obj\x64\D
 C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\peptides_server\obj\x64\Debug\peptides_server.csproj.CopyComplete
 C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\peptides_server\obj\x64\Debug\peptides_server.exe
 C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\peptides_server\obj\x64\Debug\peptides_server.pdb
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\peptides_server.exe.config
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\peptides_server.exe
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\peptides_server.pdb
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\DynamicInterop.dll
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\protein_feature_extraction.exe
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\RDotNet.dll
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\RDotNet.NativeLibrary.dll
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\protein_feature_extraction.pdb
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\bin\x64\Debug\protein_feature_extraction.exe.config
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\obj\x64\Debug\peptides_server.csprojAssemblyReference.cache
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\obj\x64\Debug\peptides_server.csproj.CopyComplete
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\obj\x64\Debug\peptides_server.exe
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\peptides_server\obj\x64\Debug\peptides_server.pdb

@@ -26,3 +26,13 @@ C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debu
 C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.csproj.CopyComplete
 C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\protein_feature_extraction.exe
 C:\Users\aaron\Desktop\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\protein_feature_extraction.pdb
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\protein_feature_extraction.exe.config
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\protein_feature_extraction.exe
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\protein_feature_extraction.pdb
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\DynamicInterop.dll
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\RDotNet.dll
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\bin\x64\Debug\RDotNet.NativeLibrary.dll
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\Coil_DHC_Dataset_Maker.csproj.CopyComplete
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\protein_feature_extraction.exe
+C:\Users\aaron\Documents\Projects\Coil_DHC_Dataset_Maker\ConsoleApp31\obj\x64\Debug\protein_feature_extraction.pdb

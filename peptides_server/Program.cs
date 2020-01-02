@@ -11,8 +11,25 @@ namespace peptides_server
     public static class Program
     {
 
+        public static void Test()
+        {
+            var x = r_peptides.get_values("AAAALLLLYYYYYY", 1);
+
+            foreach (var a in x)
+            {
+                Console.WriteLine(a);
+            }
+
+            Console.ReadKey();
+        }
+
         public static void Main(string[] args)
         {
+            // tested and working with R 3.4.4
+
+            //Test();
+            //return;
+
             var id = int.Parse(args[0]);
             var seq = args[1];
 
